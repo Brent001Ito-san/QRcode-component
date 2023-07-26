@@ -25,10 +25,8 @@ body, html{
 }
 
 .QR{
-    width: 270px;
-    height: 290px;
-    padding: 5px;
-    margin-top: 10px;
+    width: 90%;
+    margin: 5% 5% 1rem 5%;
     box-sizing: border-box;
 }
 
